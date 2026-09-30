@@ -66,6 +66,9 @@
   <a href="https://github.com/codeplus819-ah/simple_programming_language">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=simple_programming_language&theme=radical&hide_border=true" />
   </a>
+  <a href="https://github.com/codeplus819-ah/kootah-url-shorter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=kootah-url-shorter&theme=radical&hide_border=true" />
+  </a>
 </p>
 
 ---
