@@ -65,16 +65,13 @@
 ## 📂 My Repositories
 
 <p align="center">
-  <a href="https://github.com/codeplus819-ah/YOUR_REPO_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=YOUR_REPO_1&theme=radical&hide_border=true" />
+  <a href="https://github.com/codeplus819-ah/syncrad">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=syncrad&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/codeplus819-ah/YOUR_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=YOUR_REPO_2&theme=radical&hide_border=true" />
+  <a href="https://github.com/codeplus819-ah/ASL.js">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=ASL.js&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/codeplus819-ah/YOUR_REPO_3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=YOUR_REPO_3&theme=radical&hide_border=true" />
-  </a>
-  <a href="https://github.com/codeplus819-ah/YOUR_REPO_4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=YOUR_REPO_4&theme=radical&hide_border=true" />
+  <a href="https://github.com/codeplus819-ah/simple_programming_language">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=codeplus819-ah&repo=simple_programming_language&theme=radical&hide_border=true" />
   </a>
 </p>
